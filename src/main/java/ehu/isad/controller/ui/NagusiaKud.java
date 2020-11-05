@@ -22,8 +22,6 @@ public class NagusiaKud implements Initializable {
   public void onClick(ActionEvent actionEvent) {
 
 
-      mainApp.ezarpenakErakutsi();
-
   }
 
   @Override
